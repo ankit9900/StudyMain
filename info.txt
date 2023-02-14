@@ -1,0 +1,31 @@
+INFO
+
+Concept	Link	Understood
+Thread c++11	https://baptiste-wicht.com/posts/2012/03/cpp11-concurrency-part1-start-threads.html	
+Atomics	https://kevinyu.net/2019/05/28/c-11-atomics-and-concurrency-memory-model/	
+Websockets	https://www.youtube.com/watch?v=9FqjRN4VYUU	
+Shared libraries	https://cseweb.ucsd.edu//~gbournou/CSE131/the_inside_story_on_shared_libraries_and_dynamic_loading.pdf	
+Kernel bypass	https://medium.com/@penberg/on-kernel-bypass-networking-and-programmable-packet-processing-799609b06898	
+Multithreading	https://baptiste-wicht.com/posts/2012/03/cp11-concurrency-tutorial-part-2-protect-shared-data.html	
+SOLID	https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688	
+Dependecy Inversio	https://medium.com/@kedren.villena/simplifying-dependency-inversion-principle-dip-59228122649a	
+Lock free	https://mechanical-sympathy.blogspot.com/2011/09/single-writer-principle.html	
+Lock Free Queue	https://jbseg.medium.com/lock-free-queues-e48de693654b	
+Zero Copy	https://developer.ibm.com/articles/j-zerocopy/.     https://www.linuxjournal.com/article/6345?page=0,0	
+HTTP	https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview	
+LSM	https://yetanotherdevblog.com/lsm/	
+Good Reads	https://www.linkedin.com/in/sameh-muhammed-860570144/recent-activity/posts/	
+DB	https://kinsta.com/blog/postgresql-vs-mysql/#:~:text=MySQL%20is%20a%20purely%20relational,and%20lets%20objects%20inherit%20properties.	
+Lots of link on communication in distributed systems	https://cem-basaranoglu.medium.com/the-biggest-challenges-in-distributed-systems-27520a58258c	
+Beat CAP theorm	https://cem-basaranoglu.medium.com/three-different-ways-to-beat-cap-theorem-eb2009c398f6	
+Lots of good on Distributed computing	https://cem-basaranoglu.medium.com/importance-of-transport-independence-in-microservices-fbea8344510d	
+Manning	https://livebook.manning.com/book/microservices-patterns/chapter-3	
+LSM VS B Tree	https://www.speedb.io/blog-posts/02-lsm-vs-b-tree-v2#:~:text=Fundamentals%20of%20B%2DTree%20and%20LSM%20Tree%20Data%20Structures&text=B%2DTree%20can%20also%20be,efficiency%20for%20writes%20and%20updates.	
+Very Good 	https://www.uber.com/en-IN/blog/postgres-to-mysql-migration/	
+Postgresql internals	https://www.interdb.jp/pg/pgsql07.html#:~:text=Heap%20Only%20Tuple%20(HOT),are%20described%20in%20the%20README.	
+TCp INternals	https://codeburst.io/understanding-tcp-internals-step-by-step-for-software-engineers-system-designers-part-2-8557c06c2f7b	
+DB	https://mkdev.me/posts/transaction-isolation-levels-with-postgresql-as-an-example	
+DB Sharding 	https://www.digitalocean.com/community/tutorials/understanding-database-sharding#what-is-sharding	
+Good Notes on Distributed	https://xzhu0027.gitbook.io/blog/misc/index/consistency-models-in-distributed-system	
+MUTEX IN DEPDTH	https://linux-kernel-labs.github.io/refs/pull/183/merge/lectures/smp.html	
+ALL C++ Concepts	https://devtut.github.io/cpp/lambdas.html#what-is-a-lambda-expression	
